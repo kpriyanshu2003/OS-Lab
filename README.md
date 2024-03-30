@@ -63,3 +63,12 @@
 | 2     | No. of times Hello World                         | [dos.c](./data/lab-assignment/dos.c)       |
 | 3     | Predict the output : Hello from parent and child | [tres.c](./data/lab-assignment/tres.c)     |
 | 4     | Predict the output : Count parent and child      | [cuatro.c](./data/lab-assignment/cuatro.c) |
+
+### Lab 7 - 30 Mar 2024
+
+| Sl No | Topic                                          | File                                                             |
+| ----- | ---------------------------------------------- | ---------------------------------------------------------------- |
+| 1     | Create thread - Display text                   | [thread_creation1.c](./data/lab-assignment-2/thread_creation1.c) |
+| 2     | Create thread - Pass Char Array                | [thread_creation1.c](./data/lab-assignment-2/thread_creation2.c) |
+| 3     | Create thread - Pass int Array                 | [thread_creation2.c](./data/lab-assignment-2/thread_creation3.c) |
+| 4     | Create thread - 2 process ( print even & odd ) | [thread_creation3.c](./data/lab-assignment-2/thread_creation4.c) |
