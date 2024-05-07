@@ -17,6 +17,5 @@ int main()
     pthread_create(&th1, NULL, fun1, name);
     pthread_join(th1, NULL);
     printf("Exit from main\n");
-
     return 0;
 }

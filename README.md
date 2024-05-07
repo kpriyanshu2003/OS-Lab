@@ -69,6 +69,6 @@
 | Sl No | Topic                                          | File                                                             |
 | ----- | ---------------------------------------------- | ---------------------------------------------------------------- |
 | 1     | Create thread - Display text                   | [thread_creation1.c](./data/lab-assignment-2/thread_creation1.c) |
-| 2     | Create thread - Pass Char Array                | [thread_creation1.c](./data/lab-assignment-2/thread_creation2.c) |
-| 3     | Create thread - Pass int Array                 | [thread_creation2.c](./data/lab-assignment-2/thread_creation3.c) |
-| 4     | Create thread - 2 process ( print even & odd ) | [thread_creation3.c](./data/lab-assignment-2/thread_creation4.c) |
+| 2     | Create thread - Pass Char Array                | [thread_creation2.c](./data/lab-assignment-2/thread_creation2.c) |
+| 3     | Create thread - Pass int Array                 | [thread_creation3.c](./data/lab-assignment-2/thread_creation3.c) |
+| 4     | Create thread - 2 process ( print even & odd ) | [thread_creation4.c](./data/lab-assignment-2/thread_creation4.c) |
